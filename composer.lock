@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ea41e7d6ac6eb48dd608aa69bda70f21",
+    "content-hash": "b59d6d0fe1d594fd5c500e090859f5e6",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -5777,16 +5777,16 @@
         },
         {
             "name": "pixelfederation/doctrine-resettable-em-bundle",
-            "version": "6.1.0",
+            "version": "6.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/pixelfederation/doctrine-resettable-em-bundle.git",
-                "reference": "7d9e6a6a996bd826e620906e431cc61d303e6e05"
+                "reference": "a6a639a9ab866b785271240ae0021d487308e54f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/pixelfederation/doctrine-resettable-em-bundle/zipball/7d9e6a6a996bd826e620906e431cc61d303e6e05",
-                "reference": "7d9e6a6a996bd826e620906e431cc61d303e6e05",
+                "url": "https://api.github.com/repos/pixelfederation/doctrine-resettable-em-bundle/zipball/a6a639a9ab866b785271240ae0021d487308e54f",
+                "reference": "a6a639a9ab866b785271240ae0021d487308e54f",
                 "shasum": ""
             },
             "require": {
@@ -5840,9 +5840,9 @@
             "homepage": "https://github.com/pixelfederation/doctrine-resettable-em-bundle",
             "support": {
                 "issues": "https://github.com/pixelfederation/doctrine-resettable-em-bundle/issues",
-                "source": "https://github.com/pixelfederation/doctrine-resettable-em-bundle/tree/6.1.0"
+                "source": "https://github.com/pixelfederation/doctrine-resettable-em-bundle/tree/6.2.0"
             },
-            "time": "2022-03-23T11:21:03+00:00"
+            "time": "2022-12-05T13:42:55+00:00"
         },
         {
             "name": "pixelfederation/openswoole-blackfire",
